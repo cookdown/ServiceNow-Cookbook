@@ -5,3 +5,6 @@ The below two scripts detail an inline and function based option for looking up 
 
 - ServerIdLookup_function.js
 - WindowsServerLookup_inline.js
+
+### Add a choice to the list of options for a table
+The below scripts adds a function that will allow you to add a new table choice from Server Side script.  [You can read more here](https://cookdown.com/?p=1616)
